@@ -34,3 +34,5 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 
 ## 📁 Estrutura de Pastas
 
+![Screenshot 2025-04-06 173547](https://github.com/user-attachments/assets/498154a3-c7d6-44fd-8950-b58447b18407)
+
