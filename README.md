@@ -8,11 +8,7 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 
 ![image](https://github.com/user-attachments/assets/6533fd44-fe0a-43db-9042-a4ae00329753)
 <br>
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/a6834a30-e68d-4750-bdf1-1e0803cd4454" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
+[▶️ Clique aqui para assistir ao vídeo da demonstração](https://github.com/user-attachments/assets/a6834a30-e68d-4750-bdf1-1e0803cd4454)
 ---
 
 ## 🚀 Funcionalidades
