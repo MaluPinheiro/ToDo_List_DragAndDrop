@@ -19,6 +19,7 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 - 💾 Salvar tudo automaticamente no navegador (localStorage)
 - ❌ Excluir tarefas individualmente
 - 🎨 Interface moderna com TailwindCSS
+- 🌗 Alternar entre **modo claro e escuro** (Dark/Light Mode)
 
 ---
 
