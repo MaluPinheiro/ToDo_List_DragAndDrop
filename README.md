@@ -45,3 +45,14 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 git clone https://github.com/seu-usuario/seu-repo-kanban.git
 cd seu-repo-kanban
 ```
+
+2. **Instale as dependências**
+```bash
+npm install
+```
+
+3. **Rode o projeto**
+```bash
+npm run dev
+```
+Acesse em http://localhost:5173 ou http://localhost:3000, dependendo do Vite ou Create React App.
