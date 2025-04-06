@@ -6,7 +6,9 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 
 ## 📸 Demonstração
 
-![image](https://github.com/user-attachments/assets/6533fd44-fe0a-43db-9042-a4ae00329753)
+![image](https://github.com/user-attachments/assets/f5f0de4e-2892-47a8-ae94-77c2ae2f7a78)
+<br>
+![image](https://github.com/user-attachments/assets/8fd4993a-45fb-4d34-912d-9ccf95b4d8cc)
 <br>
 [▶️ Clique aqui para assistir ao vídeo da demonstração](https://github.com/user-attachments/assets/a6834a30-e68d-4750-bdf1-1e0803cd4454)
 
