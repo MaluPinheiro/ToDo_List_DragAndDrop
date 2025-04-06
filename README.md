@@ -42,8 +42,8 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repo-kanban.git
-cd seu-repo-kanban
+git clone https://github.com/MaluPinheiro/ToDo_List_DragAndDrop.git
+cd ToDo_List_DragAndDrop
 ```
 
 2. **Instale as dependências**
