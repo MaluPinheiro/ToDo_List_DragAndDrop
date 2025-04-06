@@ -36,3 +36,12 @@ Este é um projeto de **Kanban interativo** desenvolvido com **React + TypeScrip
 
 ![Screenshot 2025-04-06 173547](https://github.com/user-attachments/assets/498154a3-c7d6-44fd-8950-b58447b18407)
 
+---
+
+## 🛠️ Como Rodar Localmente
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/seu-usuario/seu-repo-kanban.git
+cd seu-repo-kanban
+```
